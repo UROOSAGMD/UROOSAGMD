@@ -2,7 +2,7 @@
   <h1 align="center" style="color:#00FFFF;">Hi 👋, I'm Uroosa Ghulam Mohiuddin</h1>
 
   <p align="center">
-  <img src="banner.jpg" alt="Banner" width="100%" />
+  <img src="giyhub banner.png" alt="Banner" width="100%" />
 </p>
 
   <h2 align="center" style="color:#00FFFF;"> ✨Explore My Coding World✨</h2>
